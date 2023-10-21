@@ -1,0 +1,12 @@
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\bin\Debug\QuanLySoThu.exe.config
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\bin\Debug\QuanLySoThu.exe
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\bin\Debug\QuanLySoThu.pdb
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.csproj.AssemblyReference.cache
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.Properties.Resources.resources
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.csproj.GenerateResource.cache
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.csproj.CoreCompileInputs.cache
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.exe
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.pdb
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.frmDangNhap.resources
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.frmDangKy.resources
+D:\BTL_LTTQ\QuanLySoThu\QuanLySoThu\obj\Debug\QuanLySoThu.frmTrangChu.resources
